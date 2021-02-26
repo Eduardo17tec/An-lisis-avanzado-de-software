@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Logo" src="https://www.tijuana.tecnm.mx/wp-content/uploads/2014/11/INFORMATICA_HEADING-768x252.png" width=200 height=200>
+    <img alt="Logo" src="https://www.tijuana.tecnm.mx/wp-content/uploads/2014/11/INFORMATICA_HEADING-768x252.png" width=400 height=200>
 </p>
 
 # Instituto Tecnológico de Tijuana
