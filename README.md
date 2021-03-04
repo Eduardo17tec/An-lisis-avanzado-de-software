@@ -28,6 +28,8 @@ ___
     * ### :hourglass_flowing_sand: [C0.1_IntegrarEquiposDeTrabajo](https://github.com/Eduardo17tec/AnalisisAvanzadoDeSoftware/blob/main/Blog/C0.1_IntegrarEquiposdeTrabajo.pdf "C0.1_IntegrarEquiposDeTrabajo")
     
     * ### :hourglass_flowing_sand: [C0.2_TipoDeSistemaDeInformacion_ChavezLopezEduardoGuillermo.md](https://github.com/Eduardo17tec/AnalisisAvanzadoDeSoftware/blob/main/Blog/C0.2_TipoDeSistemaDeInformacion_ChavezLopezEduardoGuillermo.md "C0.2_TipoDeSistemaDeInformacion_ChavezLopezEduardoGuillermo.md")
+
+    * ### :hourglass_flowing_sand: [C0.3_DiagramaDeFlujoDelProceso.md](https://github.com/Eduardo17tec/AnalisisAvanzadoDeSoftware/blob/main/Blog/C0.3_DiagramaDeFlujoDelProceso.md "C0.3_DiagramaDeFlujoDelProceso.md")
     
 ---
 * ## :bar_chart: [Diagrams](https://github.com/Eduardo17tec/AnalisisAvanzadoDeSoftware/tree/main/Diagrams "Diagrams")
