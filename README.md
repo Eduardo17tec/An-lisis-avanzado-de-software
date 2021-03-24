@@ -31,6 +31,8 @@ ___
 
     * ### :hourglass_flowing_sand: [C0.3_DiagramaDeFlujoDelProceso.md](https://github.com/Eduardo17tec/AnalisisAvanzadoDeSoftware/blob/main/Blog/C0.3_DiagramaDeFlujoDelProceso.md "C0.3_DiagramaDeFlujoDelProceso.md")
 
+    * ### :hourglass_flowing_sand: [C1.1_ObjetivosGeneralesYEspecificos.md](https://github.com/Eduardo17tec/AnalisisAvanzadoDeSoftware/blob/main/Blog/C1.1_ObjetivosGeneralesYEspecificos.md "C1.1_ObjetivosGeneralesYEspecificos")
+
     * ### :trophy: [A0.1_DataCollectionThroughTheInterview.md](https://github.com/Eduardo17tec/AnalisisAvanzadoDeSoftware/blob/main/Blog/A0.1_DataCollectionThroughTheInterview.md "A0.1_DataCollectionThroughTheInterview.md")
     
 ---
