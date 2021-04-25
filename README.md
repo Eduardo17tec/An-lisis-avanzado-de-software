@@ -39,6 +39,8 @@ ___
 
     * ### :hourglass_flowing_sand: [C1.4_UMLCasosDeUsoSecuenciaClases.md](https://github.com/Eduardo17tec/AnalisisAvanzadoDeSoftware/blob/main/Blog/C1.4_UMLCasosDeUsoSecuenciaClases.md "C1.4_UMLCasosDeUsoSecuenciaClases.md")
 
+    * ### :hourglass_flowing_sand: [C1.5_UMLEstadoComponentesDistribucion.md](https://github.com/Eduardo17tec/AnalisisAvanzadoDeSoftware/blob/main/Blog/C1.5_UMLEstadoComponentesDistribucion.md "C1.5_UMLEstadoComponentesDistribucion.md")
+
     * ### :trophy: [A0.1_DataCollectionThroughTheInterview.md](https://github.com/Eduardo17tec/AnalisisAvanzadoDeSoftware/blob/main/Blog/A0.1_DataCollectionThroughTheInterview.md "A0.1_DataCollectionThroughTheInterview.md")
 
     * ### :trophy: [A1.0_ConsolidationOfTheConstitutiveAct.md](https://github.com/Eduardo17tec/AnalisisAvanzadoDeSoftware/blob/main/Blog/A1.0_ConsolidationOfTheConstitutiveAct.md "A1.0_ConsolidationOfTheConstitutiveAct.md")
