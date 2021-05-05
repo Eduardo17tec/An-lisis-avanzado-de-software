@@ -41,6 +41,8 @@ ___
 
     * ### :hourglass_flowing_sand: [C1.5_UMLEstadoComponentesDistribucion.md](https://github.com/Eduardo17tec/AnalisisAvanzadoDeSoftware/blob/main/Blog/C1.5_UMLEstadoComponentesDistribucion.md "C1.5_UMLEstadoComponentesDistribucion.md")
 
+     * ### :hourglass_flowing_sand: [C2.1_EspecificacionRequerimientosFuncionales.md](https://github.com/Eduardo17tec/AnalisisAvanzadoDeSoftware/blob/main/Blog/C2.1_EspecificacionRequerimientosFuncionales.md "C2.1_EspecificacionRequerimientosFuncionales.md")
+
     * ### :trophy: [A0.1_DataCollectionThroughTheInterview.md](https://github.com/Eduardo17tec/AnalisisAvanzadoDeSoftware/blob/main/Blog/A0.1_DataCollectionThroughTheInterview.md "A0.1_DataCollectionThroughTheInterview.md")
 
     * ### :trophy: [A1.0_ConsolidationOfTheConstitutiveAct.md](https://github.com/Eduardo17tec/AnalisisAvanzadoDeSoftware/blob/main/Blog/A1.0_ConsolidationOfTheConstitutiveAct.md "A1.0_ConsolidationOfTheConstitutiveAct.md")
