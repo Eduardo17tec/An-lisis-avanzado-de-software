@@ -48,6 +48,8 @@ ___
     * ### :trophy: [A1.0_ConsolidationOfTheConstitutiveAct.md](https://github.com/Eduardo17tec/AnalisisAvanzadoDeSoftware/blob/main/Blog/A1.0_ConsolidationOfTheConstitutiveAct.md "A1.0_ConsolidationOfTheConstitutiveAct.md")
 
     * ### :trophy: [A1.1_RequirementsModeling.md](https://github.com/Eduardo17tec/AnalisisAvanzadoDeSoftware/blob/main/Blog/A1.1_RequirementsModeling.md "A1.1_RequirementsModeling.md")
+
+    * ### :trophy: [A2.1_RequirementsSpecificationAndDocumentation.md](https://github.com/Eduardo17tec/AnalisisAvanzadoDeSoftware/blob/main/Blog/A2.1_RequirementsSpecificationAndDocumentation.md "A2.1_RequirementsSpecificationAndDocumentation.md")
     
 ---
 * ## :bar_chart: [Diagrams](https://github.com/Eduardo17tec/AnalisisAvanzadoDeSoftware/tree/main/Diagrams "Diagrams")
