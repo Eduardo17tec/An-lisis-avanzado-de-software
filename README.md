@@ -52,6 +52,8 @@ ___
     * ### :trophy: [A2.1_RequirementsSpecificationAndDocumentation.md](https://github.com/Eduardo17tec/AnalisisAvanzadoDeSoftware/blob/main/Blog/A2.1_RequirementsSpecificationAndDocumentation.md "A2.1_RequirementsSpecificationAndDocumentation.md")
 
     * ### :trophy: [A2.2_4+1ArchitectureDesign.md](https://github.com/Eduardo17tec/AnalisisAvanzadoDeSoftware/blob/main/Blog/A2.2_4%2B1ArchitectureDesign.md "A2.2_4+1ArchitectureDesign.md")
+
+    * ### :trophy: [A2.3_SoftwareArchitecturePatterns.md](https://github.com/Eduardo17tec/AnalisisAvanzadoDeSoftware/blob/main/Blog/A2.3_SoftwareArchitecturePatterns.md "A2.3_SoftwareArchitecturePatterns.md")
     
 ---
 * ## :bar_chart: [Diagrams](https://github.com/Eduardo17tec/AnalisisAvanzadoDeSoftware/tree/main/Diagrams "Diagrams")
