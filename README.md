@@ -54,6 +54,9 @@ ___
     * ### :trophy: [A2.2_4+1ArchitectureDesign.md](https://github.com/Eduardo17tec/AnalisisAvanzadoDeSoftware/blob/main/Blog/A2.2_4%2B1ArchitectureDesign.md "A2.2_4+1ArchitectureDesign.md")
 
     * ### :trophy: [A2.3_SoftwareArchitecturePatterns.md](https://github.com/Eduardo17tec/AnalisisAvanzadoDeSoftware/blob/main/Blog/A2.3_SoftwareArchitecturePatterns.md "A2.3_SoftwareArchitecturePatterns.md")
+
+    * ### :trophy: [A3.1_ScrumStartPhaseProjectVisionStatement.md](https://github.com/Eduardo17tec/AnalisisAvanzadoDeSoftware/blob/main/Blog/A3.1_ScrumStartPhaseProjectVisionStatement.md "A3.1_ScrumStartPhaseProjectVisionStatement.md")
+
     
 ---
 * ## :bar_chart: [Diagrams](https://github.com/Eduardo17tec/AnalisisAvanzadoDeSoftware/tree/main/Diagrams "Diagrams")
