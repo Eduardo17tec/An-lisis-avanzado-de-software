@@ -57,6 +57,8 @@ ___
 
     * ### :trophy: [A3.1_ScrumStartPhaseProjectVisionStatement.md](https://github.com/Eduardo17tec/AnalisisAvanzadoDeSoftware/blob/main/Blog/A3.1_ScrumStartPhaseProjectVisionStatement.md "A3.1_ScrumStartPhaseProjectVisionStatement.md")
 
+    * ### :trophy: [A3.2_StartPhaseArtifacts.md](https://github.com/Eduardo17tec/AnalisisAvanzadoDeSoftware/blob/main/Blog/A3.2_StartPhaseArtifacts.md "A3.2_StartPhaseArtifacts.md")
+
     
 ---
 * ## :bar_chart: [Diagrams](https://github.com/Eduardo17tec/AnalisisAvanzadoDeSoftware/tree/main/Diagrams "Diagrams")
