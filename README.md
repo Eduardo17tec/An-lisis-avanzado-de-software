@@ -27,7 +27,7 @@ ___
 * ## :clipboard: [Blog](https://github.com/Eduardo17tec/AnalisisAvanzadoDeSoftware/tree/main/Blog "Blog")
     * ### :hourglass_flowing_sand: [C0.1_IntegrarEquiposDeTrabajo](https://github.com/Eduardo17tec/AnalisisAvanzadoDeSoftware/blob/main/Blog/C0.1_IntegrarEquiposdeTrabajo.pdf "C0.1_IntegrarEquiposDeTrabajo")
     
-    * ### :hourglass_flowing_sand: [C0.2_TipoDeSistemaDeInformacion_ChavezLopezEduardoGuillermo.md](https://github.com/Eduardo17tec/AnalisisAvanzadoDeSoftware/blob/main/Blog/C0.2_TipoDeSistemaDeInformacion_ChavezLopezEduardoGuillermo.md "C0.2_TipoDeSistemaDeInformacion_ChavezLopezEduardoGuillermo.md")
+    * ### :hourglass_flowing_sand: [C0.2_TipoDeSistemaDeInformacion.md](https://github.com/Eduardo17tec/AnalisisAvanzadoDeSoftware/blob/main/Blog/C0.2_TipoDeSistemaDeInformacion_ChavezLopezEduardoGuillermo.md "C0.2_TipoDeSistemaDeInformacion.md")
 
     * ### :hourglass_flowing_sand: [C0.3_DiagramaDeFlujoDelProceso.md](https://github.com/Eduardo17tec/AnalisisAvanzadoDeSoftware/blob/main/Blog/C0.3_DiagramaDeFlujoDelProceso.md "C0.3_DiagramaDeFlujoDelProceso.md")
 
@@ -58,6 +58,8 @@ ___
     * ### :trophy: [A3.1_ScrumStartPhaseProjectVisionStatement.md](https://github.com/Eduardo17tec/AnalisisAvanzadoDeSoftware/blob/main/Blog/A3.1_ScrumStartPhaseProjectVisionStatement.md "A3.1_ScrumStartPhaseProjectVisionStatement.md")
 
     * ### :trophy: [A3.2_StartPhaseArtifacts.md](https://github.com/Eduardo17tec/AnalisisAvanzadoDeSoftware/blob/main/Blog/A3.2_StartPhaseArtifacts.md "A3.2_StartPhaseArtifacts.md")
+
+    * ### :trophy: [A3.3_SoftwareArchitectureThroughTheC4Model.md](https://github.com/Eduardo17tec/AnalisisAvanzadoDeSoftware/blob/main/Blog/A3.3_SoftwareArchitectureThroughTheC4Model.md "A3.3_SoftwareArchitectureThroughTheC4Model.md")
 
     
 ---
