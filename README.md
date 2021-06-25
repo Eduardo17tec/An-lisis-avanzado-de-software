@@ -61,6 +61,8 @@ ___
 
     * ### :trophy: [A3.3_SoftwareArchitectureThroughTheC4Model.md](https://github.com/Eduardo17tec/AnalisisAvanzadoDeSoftware/blob/main/Blog/A3.3_SoftwareArchitectureThroughTheC4Model.md "A3.3_SoftwareArchitectureThroughTheC4Model.md")
 
+    * ### :trophy: [A3.4_PlanningAndEstimationPhaseArtifacts.md](https://github.com/Eduardo17tec/AnalisisAvanzadoDeSoftware/blob/main/Blog/A3.4_PlanningAndEstimationPhaseArtifacts.md "A3.4_PlanningAndEstimationPhaseArtifacts.md")
+
     
 ---
 * ## :bar_chart: [Diagrams](https://github.com/Eduardo17tec/AnalisisAvanzadoDeSoftware/tree/main/Diagrams "Diagrams")
